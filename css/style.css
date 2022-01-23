@@ -1,0 +1,41 @@
+img{
+    border-radius: 50%;
+   background-image: none;
+   background-color: rgb(100, 85, 185);
+    }
+h2{
+    font-family: 'Bebas Neue', cursive; 
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+p{
+    font-family: 'Bebas Neue', cursive;
+}
+ul{
+    font-family: 'Bebas Neue', cursive;
+}
+ol{
+    font-family: 'Bebas Neue', cursive;
+}
+ul{
+list-style: square;
+}
+ul a{
+    text-decoration: none;
+}
+li a{
+    text-decoration: none;
+}
+a{
+    color: darkorange;
+}
+ol li{
+    color: darkturquoise;
+}
+p{
+    color: darkturquoise;
+}
+body{
+    background-color: greenyellow;
+}
